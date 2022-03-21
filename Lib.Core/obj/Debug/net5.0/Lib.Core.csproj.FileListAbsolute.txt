@@ -1,0 +1,12 @@
+C:\Users\ls55\source\repos\WebApplication11\Lib.Core\bin\Debug\net5.0\Lib.Core.deps.json
+C:\Users\ls55\source\repos\WebApplication11\Lib.Core\bin\Debug\net5.0\Lib.Core.dll
+C:\Users\ls55\source\repos\WebApplication11\Lib.Core\bin\Debug\net5.0\ref\Lib.Core.dll
+C:\Users\ls55\source\repos\WebApplication11\Lib.Core\bin\Debug\net5.0\Lib.Core.pdb
+C:\Users\ls55\source\repos\WebApplication11\Lib.Core\obj\Debug\net5.0\Lib.Core.csproj.AssemblyReference.cache
+C:\Users\ls55\source\repos\WebApplication11\Lib.Core\obj\Debug\net5.0\Lib.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ls55\source\repos\WebApplication11\Lib.Core\obj\Debug\net5.0\Lib.Core.AssemblyInfoInputs.cache
+C:\Users\ls55\source\repos\WebApplication11\Lib.Core\obj\Debug\net5.0\Lib.Core.AssemblyInfo.cs
+C:\Users\ls55\source\repos\WebApplication11\Lib.Core\obj\Debug\net5.0\Lib.Core.csproj.CoreCompileInputs.cache
+C:\Users\ls55\source\repos\WebApplication11\Lib.Core\obj\Debug\net5.0\Lib.Core.dll
+C:\Users\ls55\source\repos\WebApplication11\Lib.Core\obj\Debug\net5.0\ref\Lib.Core.dll
+C:\Users\ls55\source\repos\WebApplication11\Lib.Core\obj\Debug\net5.0\Lib.Core.pdb
